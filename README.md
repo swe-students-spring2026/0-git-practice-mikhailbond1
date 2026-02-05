@@ -9,5 +9,4 @@ Organizations such as workplaces and educational institutions have had to create
 adapt or reject these advancements.
 
 Loveable is an AI platform that is able to generate full apps simply with a prompt. It has gained significant traction
-raising over 550 million to "empower the builder." While Loveable is able to easily create these apps, I believe more consideration into
-scalability and maintainability of the apps that are created. 
+raising over 550 million to "empower the builder." While Loveable allows you to be able to easily create these apps, I believe more consideration into scalability and maintainability of the apps that are created. 
